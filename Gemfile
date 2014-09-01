@@ -16,7 +16,7 @@ group :test do
 end
 
 group :development do
-  gem 'pg'
+  gem 'sqlite3', '1.3.9'
   gem 'spring',  '1.1.3'
 end
 
